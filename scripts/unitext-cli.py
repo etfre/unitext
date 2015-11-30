@@ -1,5 +1,4 @@
 import unitext
-print(dir(unitext))
 
 def main():
 	print('hello world')
