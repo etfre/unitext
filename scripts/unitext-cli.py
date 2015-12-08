@@ -1,7 +1,7 @@
-import unitext
+from unitext import text
 
 def main():
-	print('hello world')
+	print(text)
 	
 if __name__ == '__main__':
 	main()
